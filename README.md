@@ -1,6 +1,6 @@
 # Repository for the Synlexification paper
 
-This repository contains code and (shareable) data used to generate the results in ``A discovery procedure for synlexification patterns in the world's languages''.
+This repository contains code and (shareable) data used to generate the results in ''A discovery procedure for synlexification patterns in the world's languages''.
 
 The main code is in 
 * 01_generate_bitexts
@@ -19,7 +19,7 @@ Several outputs, where they do not infringe copyrights, can be found in the 'fil
 
 The 'vorm' folder contains morphological segmentations for all target languages, generated using the VORM model.
 
-The Glottolog files glottolog_languoids.csv and languages_and_dialects_geo.csv, used to generate the images in 03_analysis.ipynb should be placed in 'files' as well. [from: https://glottolog.org/meta/downloads]
+The Glottolog files glottolog_languoids.csv and languages_and_dialects_geo.csv, used to generate the images in 03_analysis.ipynb should be placed in 'files' as well and can be downloaded from [https://glottolog.org/meta/downloads]
 
-The code requires having eflomal installed and a symbolic link to 'atools' in the main directory. [see: https://github.com/robertostling/eflomal]
+The code requires having eflomal [https://github.com/robertostling/eflomal] installed and a symbolic link to 'atools' in the main directory.
 
