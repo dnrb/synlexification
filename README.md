@@ -21,5 +21,5 @@ The 'vorm' folder contains morphological segmentations for all target languages,
 
 The Glottolog files glottolog_languoids.csv and languages_and_dialects_geo.csv, used to generate the images in 03_analysis.ipynb should be placed in 'files' as well and can be downloaded from https://glottolog.org/meta/downloads
 
-The code requires having eflomal installed [https://github.com/robertostling/eflomal] and a symbolic link to 'atools' in the main directory.
+The code requires having eflomal installed [https://github.com/robertostling/eflomal] and a symbolic link to 'atools' (available through https://github.com/clab/fast_align) in the main directory.
 
