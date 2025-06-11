@@ -19,7 +19,7 @@ Several outputs, where they do not infringe copyrights, can be found in the 'fil
 
 The 'vorm' folder contains morphological segmentations for all target languages, generated using the VORM model.
 
-The Glottolog files glottolog_languoids.csv and languages_and_dialects_geo.csv, used to generate the images in 03_analysis.ipynb should be placed in 'files' as well and can be downloaded from [https://glottolog.org/meta/downloads]
+The Glottolog files glottolog_languoids.csv and languages_and_dialects_geo.csv, used to generate the images in 03_analysis.ipynb should be placed in 'files' as well and can be downloaded from https://glottolog.org/meta/downloads
 
-The code requires having eflomal [https://github.com/robertostling/eflomal] installed and a symbolic link to 'atools' in the main directory.
+The code requires having eflomal installed [https://github.com/robertostling/eflomal] and a symbolic link to 'atools' in the main directory.
 
